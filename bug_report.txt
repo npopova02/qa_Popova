@@ -1,0 +1,9 @@
+id:
+summary:
+severity:
+priority:
+status:
+precondition:
+steps_to_reproduce:
+actual_resul:
+expected_result:
